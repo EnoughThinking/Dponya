@@ -1,6 +1,6 @@
-## I'm Dponya or Bogdan. Hello!
+## I'm Bogdan(Dponya). Hello!
 
-## Hi, I am a Frontend Developer
+## I am a Frontend Developer
 - 😍 I like to write a good code
 - 🎧 I like to work listening to music
 - ⚡ I like to constantly learn new things
