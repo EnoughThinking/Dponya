@@ -1,4 +1,4 @@
-## I'm Bogdan(Dponya). Hello!
+## I'm Dponya. Hello!
 
 ## I am a Frontend Developer
 - 😍 I like to write a good code
