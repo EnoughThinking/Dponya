@@ -1,6 +1,6 @@
 ## I'm Dponya. Hello!
 
-## I am a Frontend Developer
+## I am a Javascript Developer
 - 😍 I like to write a good code
 - 🎧 I like to work listening to music
 - ⚡ I like to constantly learn new things
