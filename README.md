@@ -1,4 +1,3 @@
-## I'm Dponya. Hello. Its my repo!
 
 ## My Contacts:
 
